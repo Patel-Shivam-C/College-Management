@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"<Unnamed>","c":"FulltimeStudent","l":"FulltimeStudent()","url":"%3Cinit%3E()"},{"p":"<Unnamed>","c":"FulltimeStudent","l":"printInfo()"},{"p":"<Unnamed>","c":"FulltimeStudent","l":"readInfo()"}]
